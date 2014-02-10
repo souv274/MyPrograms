@@ -4,7 +4,6 @@ import java.util.concurrent.ConcurrentLinkedQueue;
 
 
 public class FirstClass {
-
 	double d = Double.MAX_VALUE;
 	Double d1;
     	String str;
