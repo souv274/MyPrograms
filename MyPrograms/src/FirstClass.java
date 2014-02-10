@@ -13,6 +13,7 @@ public class FirstClass {
 	ConcurrentLinkedQueue q = new ConcurrentLinkedQueue();
     	
 	FirstClass(){
+	    System.out.println("Calling First Class Constructor");
 	   //method1();
 	   //replace( str, 's', 'z');
 	   //System.out.println("Output : " + reverseRecursion("abc"));
